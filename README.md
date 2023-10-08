@@ -36,7 +36,7 @@ Hope you like it!
 
 <details>
 <summary><i>
-📸 Screenshots
+<h2>📸 Screenshots</h2>
 </i></summary>
 
 
