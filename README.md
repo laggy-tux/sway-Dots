@@ -55,9 +55,9 @@ Hope you like it!
 
 ## rice specific info
 
-> does not use any motification manager because I dont really need any notifications popping up
+> Does not use any motification manager because I dont really need any notifications popping up
 >
-> does use transparency
+> Does use transparency
 >
 > Only has 5 workspaces due to me not requiring any more than that... incase more is needed, it can be added
 
