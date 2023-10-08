@@ -28,9 +28,10 @@ Hope you like it!
 
     > File manager: Thunar
 ```
-
-### :camera: **Screenshot**
-
+<details>
+<summary><i>
+📸 Screenshots
+</i></summary>
 **Desktop:**
 
 ![ricess](https://github.com/laggy-tux/sway-Dots/assets/85402808/1d9641cd-68e7-4dce-8f9f-287dbc231a81)
@@ -42,3 +43,4 @@ Hope you like it!
 **PowerMenu:**
 
 ![wewe](https://github.com/laggy-tux/sway-Dots/assets/85402808/69d9986f-553d-44db-b278-279c77b6b354)
+</details>
