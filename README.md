@@ -69,6 +69,8 @@ nano ~/.config/waybar/config
 
 > **super+Shift+C** to reload.
 >
+> change the Wallpaper location in ```~/.config/sway/config.d/theme```
+> 
 > *Note: Refer the [cheatSheet](https://github.com/laggy-tux/sway-Dots/blob/main/cheatsheet) as modifications have been made to the sway shortcuts*
 
 ##
