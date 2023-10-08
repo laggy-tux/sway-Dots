@@ -18,7 +18,7 @@
 ## ⚡ Dependencies
 
 ```
-     > WM: Sway
+    > WM: Sway
     
     > Topbar: Waybar
     
