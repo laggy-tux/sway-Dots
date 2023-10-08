@@ -66,6 +66,7 @@ git clone https://github.com/laggy-tux/sway-Dots.git
 cd sway-Dots
 nano ~/.config/waybar/config
 ```
+
 > **super+Shift+C** to reload.
 
 
