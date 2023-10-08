@@ -1,4 +1,5 @@
 <p align="center">
-    <img width="750" src="https://github.com/laggy-tux/sway-Dots/assets/85402808/c9bd80db-f22a-47b1-be68-0aca8af9e6b5" 
+    <img width="750" src="https://github.com/laggy-tux/sway-Dots/assets/85402808/540ea4f1-cf41-4172-8f0e-ba95033973df" 
 </p>
+
 
