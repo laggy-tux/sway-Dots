@@ -67,9 +67,13 @@ nano ~/.config/waybar/config
 
 > **super+Shift+C** to reload.
 >
+
+## Things to look out for
 > change the Wallpaper location in ```~/.config/sway/config.d/theme```
 > 
-> *Note: Refer the [cheatSheet](https://github.com/laggy-tux/sway-Dots/blob/main/cheatsheet) as modifications have been made to the sway shortcuts*
+> *Refer the [cheatSheet](https://github.com/laggy-tux/sway-Dots/blob/main/cheatsheet) as modifications have been made to the sway shortcuts*
+>
+> To add and remove stuufs to the *waybar* check ```~/.config.waybar/config there are modules for weather and other things which i have not added
 
 ##
 
