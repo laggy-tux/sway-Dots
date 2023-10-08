@@ -59,7 +59,7 @@ Hope you like it!
 
 ## Installation
 
-*disclaimer: Edit the resolutions and other things for ur device before replacing ur your configs,copying the text below will open up the waybar config file for you to change resolutions*
+*Disclaimer: Edit the resolutions and other things for ur device before replacing ur your configs,copying the text below will open up the waybar config file for you to change resolutions*
 
 ```bash
 git clone https://github.com/laggy-tux/sway-Dots.git
@@ -69,7 +69,7 @@ nano ~/.config/waybar/config
 
 > **super+Shift+C** to reload.
 >
-> *note:Refer the [cheatSheet](https://github.com/laggy-tux/sway-Dots/blob/main/cheatsheet) as modifications have been made to the sway shortcuts
+> *Note: Refer the [cheatSheet](https://github.com/laggy-tux/sway-Dots/blob/main/cheatsheet) as modifications have been made to the sway shortcuts*
 
 ##
 
