@@ -83,6 +83,6 @@ nano ~/.config/waybar/config
 
 ##
 
-If any issues please raise it.. i'll try my best to rectify :)
+<h2>If any issues please raise it.. i'll try my best to rectify :)</h2>
 
 
