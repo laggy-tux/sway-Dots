@@ -48,8 +48,13 @@ Hope you like it!
 **PowerMenu:**
 
 ![wewe](https://github.com/laggy-tux/sway-Dots/assets/85402808/69d9986f-553d-44db-b278-279c77b6b354)
-</details>
 
+
+**Transparency:**
+
+![transparency](https://github.com/laggy-tux/sway-Dots/assets/85402808/413164ad-6c5d-404d-beb5-a255b842838d)
+
+</details>
 
 ## Look outs 
 
