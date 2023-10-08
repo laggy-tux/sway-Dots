@@ -41,6 +41,10 @@ Hope you like it!
 
 ![ricess](https://github.com/laggy-tux/sway-Dots/assets/85402808/1d9641cd-68e7-4dce-8f9f-287dbc231a81)
 
+**Transparency:**
+
+![transparency](https://github.com/laggy-tux/sway-Dots/assets/85402808/413164ad-6c5d-404d-beb5-a255b842838d)
+
 **Launcher:**
 
 ![menu](https://github.com/laggy-tux/sway-Dots/assets/85402808/ab85ca5e-742d-4ed9-aa13-71d34789ae8f)
@@ -48,11 +52,6 @@ Hope you like it!
 **PowerMenu:**
 
 ![wewe](https://github.com/laggy-tux/sway-Dots/assets/85402808/69d9986f-553d-44db-b278-279c77b6b354)
-
-
-**Transparency:**
-
-![transparency](https://github.com/laggy-tux/sway-Dots/assets/85402808/413164ad-6c5d-404d-beb5-a255b842838d)
 
 </details>
 
