@@ -28,8 +28,6 @@ Hope you like it!
 
     > TextEditor: Geany
 
-    > Notification manager: Dunst
-
     > File manager: Thunar
 ```
 
