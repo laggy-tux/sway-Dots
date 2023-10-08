@@ -53,4 +53,11 @@ Hope you like it!
 ![wewe](https://github.com/laggy-tux/sway-Dots/assets/85402808/69d9986f-553d-44db-b278-279c77b6b354)
 </details>
 
+## rice specific info
+
+> does not use any motification manager because I dont really need any notifications popping up
+>
+> does use transparency
+>
+> Only has 5 workspaces due to me not requiring any more than that... incase more is needed, it can be added
 
