@@ -11,5 +11,9 @@
     > Topbar: Waybar
     
     > Menu: Wofi
+
+    > Terminal: Kitty
+
+    > Notification manager: Dunst
 </p>
 
