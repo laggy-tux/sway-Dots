@@ -69,8 +69,7 @@ nano ~/.config/waybar/config
 
 > **super+Shift+C** to reload.
 
-
-
+##
 
 ## rice specific info
 
