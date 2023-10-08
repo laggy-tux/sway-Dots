@@ -71,7 +71,7 @@ nano ~/.config/waybar/config
 
 ##
 
-## rice specific info
+## Rice specific info
 
 > Does not use any motification manager because I dont really need any notifications popping up
 >
