@@ -70,6 +70,8 @@ nano ~/.config/waybar/config
 > **super+Shift+C** to reload.
 
 
+
+
 ## rice specific info
 
 > Does not use any motification manager because I dont really need any notifications popping up
