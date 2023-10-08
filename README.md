@@ -79,3 +79,8 @@ nano ~/.config/waybar/config
 >
 > Only has 5 workspaces due to me not requiring any more than that... incase more is needed, it can be added
 
+
+## modified shortcuts
+
+
+
