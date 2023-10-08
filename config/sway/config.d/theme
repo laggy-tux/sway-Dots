@@ -15,7 +15,7 @@ font pango:Noto Sans Regular 10
 smart_borders on
 
 # Set wallpaper:
-exec swaybg -i /home/lagg/Documents/walls/pmxrh3o9rdgb1.png
+exec swaybg -i $HOME/walls/pmxrh3o9rdgb1.png
 
 # Title format for windows
 for_window [shell="xdg_shell"] title_format "%title (%app_id)"
