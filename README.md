@@ -66,7 +66,8 @@ nano ~/.config/waybar/config
 ```
 
 > **super+Shift+C** to reload.
->
+
+##
 
 ## Things to look out for
 > change the Wallpaper location in ```~/.config/sway/config.d/theme```
