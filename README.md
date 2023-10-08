@@ -57,9 +57,16 @@ Hope you like it!
 
 </details>
 
-## Look outs 
+## Installation
 
-> If using the bar does not fully fit ur screen.... head over to ```~/.config/waybar/config``` and edit the first 4-5 lines to better suit it to your taste/screen
+*disclaimer: Edit the resolutions and other things for ur device before replacing ur your configs,copying the text below will open up the waybar config file for you to change resolutions*
+
+```bash
+git clone https://github.com/laggy-tux/sway-Dots.git
+cd sway-Dots
+nano ~/.config/waybar/config
+```
+> **super+Shift+C** to reload.
 
 
 ## rice specific info
