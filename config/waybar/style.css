@@ -10,7 +10,7 @@
     margin-top: 5px;
     margin-right: 5px;
     margin-left: 5px;
-    background: #11111b;
+    background: #181825;
     border-radius: 7px;
     border: none;
 }
@@ -43,7 +43,7 @@
     padding: 0 8px;
     border-radius: 20px;
     min-width: 8px;
-    background-color: #11111b;
+    background-color: #181825;
 }
 
 #clock {
