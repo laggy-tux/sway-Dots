@@ -28,10 +28,17 @@ Hope you like it!
 
     > File manager: Thunar
 ```
+
+## Look outs 
+
+> If using the bar does not fully fit ur screen.... head over to ```~/.config/waybar/config``` and edit the first 4-5 lines to better suit it to your taste/screen
+
+
 <details>
 <summary><i>
 📸 Screenshots
 </i></summary>
+
 
 **Desktop:**
 
@@ -45,3 +52,5 @@ Hope you like it!
 
 ![wewe](https://github.com/laggy-tux/sway-Dots/assets/85402808/69d9986f-553d-44db-b278-279c77b6b354)
 </details>
+
+
