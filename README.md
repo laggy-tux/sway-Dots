@@ -68,6 +68,8 @@ nano ~/.config/waybar/config
 ```
 
 > **super+Shift+C** to reload.
+>
+> *note:Refer the [cheatSheet](https://github.com/laggy-tux/sway-Dots/blob/main/cheatsheet) as modifications have been made to the sway shortcuts
 
 ##
 
@@ -80,7 +82,7 @@ nano ~/.config/waybar/config
 > Only has 5 workspaces due to me not requiring any more than that... incase more is needed, it can be added
 
 
-## modified shortcuts
+
 
 
 
