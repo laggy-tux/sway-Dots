@@ -12,6 +12,8 @@ Hope you like it!
 ## ⚡ Dependencies
 
 ```
+    > OS: EndeavourOS
+ 
     > WM: Sway
     
     > Topbar: Waybar
