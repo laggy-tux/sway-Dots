@@ -5,10 +5,8 @@
 <h2 align="center">✨ simple and a minimal sway rice</h1>
 
 ###  
-
 Welcome and thanks for dropping by! These are my sway configs that i have been working and testing on!... Hope yall like it!
-
-##
+###
 
 ## ⚡ Dependencies
 
