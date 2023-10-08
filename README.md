@@ -5,8 +5,11 @@
 <h1 align="center">⚡ Dependencies</h1>
 
 <p align="center">
-    >  WM: Sway
+    
+    > WM: Sway
+    
     > Topbar: Waybar
+    
     > Menu: Wofi
 </p>
 
