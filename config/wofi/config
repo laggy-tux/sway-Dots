@@ -1,0 +1,28 @@
+# KED'S WOFI CONFIG
+# MAIN CONFIG FILE [CONFIG]
+# (C) 2023 Kedislav - File under GNU GPL v3.0
+#////////////////////////////////////////////////////////////////
+# Custom scripts are saved in the "scripts" directory.
+# Styling can be found in the "style.css" file.
+#////////////////////////////////////////////////////////////////
+
+width=300
+height=600
+mode=drun,run
+
+x=10
+y=0
+location=top_left
+
+prompt=apps
+term=alacritty
+
+allow_images=false
+allow_markup=false
+image_size=14
+
+orientation=vertical
+
+show_all=false
+separator=/n
+print_line_num=true
