@@ -26,6 +26,8 @@ Hope you like it!
 
     > Terminal: Kitty
 
+    > TextEditor: Geany
+
     > Notification manager: Dunst
 
     > File manager: Thunar
