@@ -5,9 +5,7 @@
 <p align="center">
     <i>my simple and minimal dots for Sway</b>.
 <img src="https://github.com/laggy-tux/sway-Dots/assets/85402808/e2624dbf-b828-41e4-811c-af7d4ae7185c">
-        <sup>
-            This setup is specific for <a href="https://github.com/hyprwm/Hyprland">Hyprland</a>. Dont install it if you don't know what you're doing.
-        </sup></i>
+        
 </p>
 
 
