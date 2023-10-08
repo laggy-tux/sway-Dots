@@ -1,1 +1,1 @@
-# <centre> Sway-Dots! </centre>
+<h1 align="center">✨ Sway-Dots!</h1>
