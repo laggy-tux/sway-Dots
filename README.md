@@ -6,9 +6,7 @@
 
 ###  
 
-Welcome and thanks for dropping by. 
-
-these are my sway configs that i have been working and testing on!... hope yall like it!
+Welcome and thanks for dropping by! These are my sway configs that i have been working and testing on!... Hope yall like it!
 
 ##
 
