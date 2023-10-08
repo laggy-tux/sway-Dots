@@ -32,6 +32,7 @@ Hope you like it!
 <summary><i>
 📸 Screenshots
 </i></summary>
+
 **Desktop:**
 
 ![ricess](https://github.com/laggy-tux/sway-Dots/assets/85402808/1d9641cd-68e7-4dce-8f9f-287dbc231a81)
