@@ -63,6 +63,7 @@ Hope you like it!
 git clone https://github.com/laggy-tux/sway-Dots.git
 cd sway-Dots
 nano ~/.config/waybar/config
+nano ~/.config/sway/config.d/theme
 ```
 
 > **super+Shift+C** to reload.
