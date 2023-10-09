@@ -57,13 +57,12 @@ Hope you like it!
 
 ## Installation
 
-*Disclaimer: Edit the resolutions and other things for ur device before replacing ur your configs,copying the text below will open up the waybar config file for you to change resolutions.. The second edit you would have to make is for wallpaper*
+*Disclaimer: Edit the resolutions and other things for ur device before replacing ur your configs,copying the text below will open up the waybar config file for you to change resolutions.. The second edit you would have to make is for wallpaper(set the location of the wallpaer in line **18**)*
 
 ```bash
 git clone https://github.com/laggy-tux/sway-Dots.git
 cd sway-Dots
 nano ~/.config/waybar/config
-nano ~/.config/sway/config.d/theme
 ```
 
 > **super+Shift+C** to reload.
