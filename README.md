@@ -65,7 +65,8 @@ cd sway-Dots
 nano ~/.config/waybar/config
 nano ~/.config/sway/config.d/theme
 ```
-
+> copy the files to the **.config** dir
+> 
 > **super+Shift+C** to reload.
 
 ##
