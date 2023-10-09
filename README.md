@@ -70,7 +70,7 @@ nano ~/.config/waybar/config
 ##
 
 ## Things to look out for
-> change the Wallpaper location in ```~/.config/sway/config.d/theme```
+> Move the folder ```walls``` into your ```$HOME``` directory or change the wallpaper location in ```~/.config/sway/config.d/theme```
 > 
 > *Refer the [cheatSheet](https://github.com/laggy-tux/sway-Dots/blob/main/cheatsheet) as modifications have been made to the sway shortcuts*
 >
