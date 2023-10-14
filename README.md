@@ -76,6 +76,12 @@ nano ~/.config/sway/config.d/theme
 > *Refer the [cheatSheet](https://github.com/laggy-tux/sway-Dots/blob/main/cheatsheet) as modifications have been made to the sway shortcuts*
 >
 > To add and remove stuufs to the *waybar* check ```~/.config.waybar/config``` there are modules for weather and other things which i have not added
+>
+> If the powermenu does not work please:
+ ```
+chmod +x path/to/wofi-power.sh
+./wofi-power.sh
+```
 
 ##
 
