@@ -11,6 +11,10 @@ for_window [app_id=thunar] focus
 assign [class="geany"] 3
 for_window [class="geany"] focus
 
+assign [class="Code"] 3
+for_window [class="Code"] focus
+
+
 
 for_window [app_id="xed"] focus
 
