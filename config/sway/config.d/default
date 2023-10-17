@@ -217,6 +217,7 @@ bindsym $mod+r mode "resize"
 #
     bindsym $mod+z exec thunar
     bindsym $mod+w exec firefox
+    bindsym $mod+g exec code
 #
 # Screenshots
 #
